@@ -79,10 +79,6 @@ Contributing
 ------------
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-Acknowledgments
----------------
-Special thanks to all the contributors and the React community for their valuable resources and support.
-
 Author
 ------
 Gwendish
